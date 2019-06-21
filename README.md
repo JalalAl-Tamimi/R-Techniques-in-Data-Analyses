@@ -1,7 +1,11 @@
 # R-Techniques in Data Analyses
 
-This is a session I ran within the HASS faculty R training workshop [AdventuresInR](https://github.com/JalalAl-Tamimi/AdventuresInR) at Newcastle University (dates 7-8 June 2018).
+## Session 25-26 June 2019
 
-This is the [notebook](Session_4-AnalysingData.nb.html) of the session
+This [notebook](https://jalalal-tamimi.github.io/R-Techniques-in-Data-Analyses/Session_4-AnalysingData062019.nb.html) contains data and analyses used in a workshop I have presented at a HASS faculty R training workshop: [AdventuresInR](https://github.com/JalalAl-Tamimi/AdventuresInR) at Newcastle University (dates 25-26 June 2019).
+
+## Session 7-8 June 2018
+
+This [notebook](https://jalalal-tamimi.github.io/R-Techniques-in-Data-Analyses/Session_4-AnalysingData062018.nb.html) contains data and analyses used in a workshop I have presented at a HASS faculty R training workshop: [AdventuresInR](https://github.com/JalalAl-Tamimi/AdventuresInR) at Newcastle University (dates 7-8 June 2018).
 
 
