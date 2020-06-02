@@ -4,7 +4,7 @@ Link to Workshop home page: [AdventuresInR](https://verbingnouns.github.io/Adven
 
 ## Session 3, 5, 8 June 2020
 
-This [notebook](https://jalalal-tamimi.github.io/R-Techniques-in-Data-Analyses/Session_4-AnalysingData2020.nb.html) contains data and analyses used in a workshop I have presented at a HASS faculty R training workshop at Newcastle University (dates 3, 5, 8 June 2020).
+This [notebook](https://jalalal-tamimi.github.io/R-Techniques-in-Data-Analyses/Session_3-AnalysingData2020.nb.html) contains data and analyses used in a workshop I have presented at a HASS faculty R training workshop at Newcastle University (dates 3, 5, 8 June 2020).
 
 ## Session 25-26 June 2019
 
