@@ -29,9 +29,9 @@ It is important to know the class of the outcome before doing any pre-data analy
 
 1. `Numeric`: As an example, we have length/width of leaf; height of mountain; fundamental frequency of the voice; etc. These are `true` numbers and we can use summaries, t-tests, linear models, etc. 
 
-2. `Categorical` (Unordered): Observations for two or more categories. As an example, we can have gender of a speaker (male or female); responses to a True vs False perception tests; Colour (unordered) categorisation, e.g., red, blue, yellow, orange, etc.. For these we can use a Generalised Linear Model (binomial or multinomial) or a simple chi-square test
+2. `Categorical` (Unordered): Observations for two or more categories. As an example, we can have gender of a speaker (male or female); responses to a True vs False perception tests; Colour (unordered) categorisation, e.g., red, blue, yellow, orange, etc.. For these we can use a Generalised Linear Model (binomial or multinomial) or a simple chi-square test. Count data are numbers related to a category. But these should be analysed using a poisson logistic regression
 
-3. `Categorical` (Ordered): When you run a rating experiment, where the outcome is either `numeric` (i.e., 1, 2, 3, 4, 5) or `categories` (i.e., disagree, neutral, agree). The `numeric` option are NOT true numbers as for the participant, these are categories. Cumulative Logit models (or Generalised Linear Model with a cumulative function) are used. The mean is meaningless here, and the median is a preferred descriptive statistic  
+3. `Categorical` (Ordered): When you run a rating experiment, where the outcome is either `numeric` (i.e., 1, 2, 3, 4, 5) or `categories` (i.e., disagree, neutral, agree). The `numeric` option is NOT a true number as for the participant, these are categories. Cumulative Logit models (or Generalised Linear Model with a cumulative function) are used. The mean is meaningless here, and the median is a preferred descriptive statistic  
 
 
 # Pre-data analsyes
